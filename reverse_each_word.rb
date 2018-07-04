@@ -4,4 +4,4 @@ def burger(toppings)
   end
 end
 
-reverse_each_word("Hello there, and how are you?")
+puts burger(pizza)
