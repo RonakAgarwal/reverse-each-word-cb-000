@@ -1,7 +1,6 @@
-
-def reverse_each_word(phrase)
-  phrase.collect do |word|
-    word.reverse
+def burger(toppings)
+  toppings.collect do |topping|
+    "I love #{topping} on my burgers"
   end
 end
 
